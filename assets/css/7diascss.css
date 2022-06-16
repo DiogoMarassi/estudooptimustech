@@ -1,0 +1,170 @@
+.body
+{
+    background: #667085;
+}
+
+
+.cabecalho
+{    
+    background-color: white;
+}
+
+.inicio-cabecalho
+{   
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:flex-start;
+    width: 60%;
+}
+
+.conteudo-cabecalho
+{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    padding: 18px 8px;
+
+}
+
+.imagem-logo
+{
+    width: 150px;
+    
+}
+
+.navegacao-cabecalho
+{
+    padding-left: 130px;
+
+}
+
+.navegacao-cabecalho li
+{
+    display: inline;
+    padding-left: 25px;
+    font-family: 'Inter', sans-serif;
+    color: #667085;
+}
+
+.botoes-cabecalho
+{
+    
+}
+
+.entrar
+{
+    font-family: 'Inter', sans-serif;
+    color: #667085;
+    padding-right: 32px;
+    
+}
+
+
+.cadastrar
+{
+    background-color: #8E2424;
+    border: 1px solid #8E2424;
+    
+    font-family: 'Inter', sans-serif;
+    color: white;
+    border-radius: 5px;
+    padding: 8px 16px;
+    text-align: center;   
+}
+
+.caixa1
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.sobre-nos
+{
+    
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'Inter', sans-serif;
+    color: #8E2424;
+    padding-bottom: 23px;
+}
+
+.titulo
+{
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    padding-bottom: 25px;
+    line-height: 60px;
+    letter-spacing: -0.02em;
+    font-family: 'Inter', sans-serif;
+}
+
+.subtitulo
+{
+   
+    width: 740px;
+    text-align: center;
+    padding: 10px 0px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    color: #667085;
+}
+
+.caixa2-metricas
+{
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+
+    justify-content: space-around;
+
+}
+
+.metrica
+{
+    max-width: 280px;
+    max-height: 220px;
+}
+
+.titulo-metrica
+{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 72px;
+    color: #8E2424;
+
+}
+
+.subtitulo-metrica
+{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    padding-top: 16px;
+}
+
+.texto-metrica
+{
+    padding-top: 10px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #667085;
+}
