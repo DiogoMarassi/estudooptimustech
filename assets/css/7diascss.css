@@ -168,3 +168,174 @@
     line-height: 24px;
     color: #667085;
 }
+
+.vagas1
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.estamos-procurando
+{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+    /* identical to box height, or 122% */
+
+    text-align: center;
+    letter-spacing: -0.02em;
+}
+
+.somos-uma
+{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 40px;
+    /* identical to box height, or 150% */
+
+    text-align: center;
+}
+
+.vagas-abertas
+{
+    margin-top: 180px;
+}
+
+.vagas2
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 96px 0px;
+    gap: 64px;
+
+    width: 1440px;
+   
+
+}
+
+.titulo-vagas
+{
+    margin-bottom: 16px;
+    width: 768px;
+    height: 30px;
+
+    /* Text xl/Medium */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height, or 150% */
+
+
+    /* Gray/900 */
+
+    color: #101828;
+}
+
+.design1, .desenvolvedor1
+{
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+    padding: 16px;
+    border: 1px solid #EAECF0;
+    border-radius: 16px;
+    margin: 16px;
+}
+
+.vaga
+{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    margin-bottom: 16px;
+}
+
+.full-time, .faixa-salarial
+{
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+
+
+    /* Gray/500 */
+
+    color: #667085;
+}
+
+.full-time
+{
+    margin-right: 16px;
+}
+
+.caixa3
+{
+    background: rgba(196, 25, 25, 0.03);
+    border-radius: 16px;
+    padding: 64px 0px;
+    margin-top: 0px;
+    margin: 0px 112px;
+}
+
+.OptimusTech-se-importa
+{
+    
+    margin: 0px 90px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 44px;
+    /* or 122% */
+
+    text-align: center;
+    letter-spacing: -0.02em;
+
+    color: #101828;
+}
+
+
+.titulo-avatar
+{
+    padding-top: 16px;
+    padding-bottom: 0px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+
+   
+
+}
+
+.subtitulo-avatar
+{
+    padding: 0px;
+    /* Text sm/Normal */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    text-align: center;
+}
